@@ -1,0 +1,8 @@
+{
+  "name": "智能测验题库系统",
+  "description": "支持多种试题管理（特色包括阅读填空题、多答案白名单匹配、划线下划线），并支持完备的日常模拟答卷测评及成绩历史流水跟踪。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
